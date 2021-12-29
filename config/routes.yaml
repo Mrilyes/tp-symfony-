@@ -1,0 +1,3 @@
+index2:
+    path: /tar
+    controller: App\Controller\TarController::index
